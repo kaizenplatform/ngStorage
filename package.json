@@ -3,6 +3,7 @@
   "version": "0.3.0",
   "private": true,
   "author": "Gias Kay Lee",
+  "main": "ngStorage.js",
   "licenses": [
     {
       "type": "MIT",
